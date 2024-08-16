@@ -1,0 +1,10 @@
+Cypress
+-Framework automação para API e WEB (javascript)
+-nao requer um framework de teste de unidade (engine interno)
+-Executa os testes dentro do navegador (browser) --> maior desempenho
+Alto desempenho (ate 10x, comparado com outros frameworks)
+---> Apenas em aplicações com arquiterura SP (single page application)
+concorrentes: selenium webdriver, playwright, robot framework
+
+
+Voltaremos a experimentar a API da PetStore
